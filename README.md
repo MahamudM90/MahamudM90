@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="/gif/59446-black-guy-animation.gif" width="500" height="500" />
 
 ##  A Front-end developer | A quick learner 
-- ✍ You can find my projects here [portfolio](https://sites.google.com/view/mahamudm90?fbclid=IwAR2vRmFO7OFY2HWHWYLdsnE82JJW_ZUIH4nHjX47lNCYJclogSSdqAjbIEU)
+
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with React.js , javascript.
