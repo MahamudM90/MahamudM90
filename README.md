@@ -32,5 +32,5 @@
 </br>
 </br>
 <!--stats-->
-<img src="https://github-readme-stats.vercel.app/api?username=shakil51298&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shakil51298&card_width=550)](https://github.com/shakil51298)
+<img src="https://github-readme-stats.vercel.app/api?username=MahmudM90&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudM90&card_width=550)](https://github.com/MahmudM90)
