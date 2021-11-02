@@ -1,14 +1,14 @@
-<h1 align="center">Hello , I'm Md Khalid 👋</h1>
+<h1 align="center">Hello , I'm Md Mahamud 👋</h1>
 
 <img align="right" alt="GIF" src="/gif/59446-black-guy-animation.gif" width="500" height="500" />
 
-##  A Front-end developer | A quick learner | A tech writer
-- ✍ You can find my projects here [portfolio](https://myportfoliofinal-14e4e.web.app/)
-- 🌱 I’m currently learning Java
+##  A Front-end developer | A quick learner 
+- ✍ You can find my projects here [portfolio](https://sites.google.com/view/mahamudm90?fbclid=IwAR2vRmFO7OFY2HWHWYLdsnE82JJW_ZUIH4nHjX47lNCYJclogSSdqAjbIEU)
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with React.js , javascript.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [personal website](https://myportfoliofinal-14e4e.web.app/) , [email](mailto:zikaiwen02@gmail.com) , [linkedin](https://www.linkedin.com/in/shakil51298/)
+- 📫 How to reach me: [personal website](https://sites.google.com/view/mahamudm90?fbclid=IwAR2vRmFO7OFY2HWHWYLdsnE82JJW_ZUIH4nHjX47lNCYJclogSSdqAjbIEU) , [email](mahamud01795@gmail.com) , [linkedin](https://www.linkedin.com/in/mahamudm90/?fbclid=IwAR2g0Q7pQ_9hVc0I3iA0teRgvDRSsleGSU6s2RhDYzzL6tDnwpu9X-Fnofs)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to coocking!
 <br />
