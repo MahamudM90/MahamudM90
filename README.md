@@ -64,3 +64,6 @@
 <a href="https://instagram.com/mahamudm90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahamudm90" height="30" width="40" /></a>
 </p>
 
+<img width="255" align="right" src="https://github.com/ruhulaminparvez/ruhulaminparvez/blob/main/gif/web4.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhulaminparvez&label=Profile%20views&color=0e75b6&style=flat" alt="ruhulaminparvez" /> </p>
+
