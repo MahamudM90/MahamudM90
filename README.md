@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud Hasan</h1>
 <h3 align="center">A passionate Front-End developer from BD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamudm90&label=Profile%20views&color=0e75b6&style=flat" alt="mahamudm90" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudm90" alt="mahamudm90" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mahamudm90" target="blank"><img src="https://img.shields.io/twitter/follow/mahamudm90?logo=twitter&style=for-the-badge" alt="mahamudm90" /></a> </p>
 <p>I'm a Student Now I studied at Daffodil International University.My dream is to be a software engineer and I am passionate about it. I am trying to make my best version to provide some services for my family and society to make a happy world. </p>
 
 - 🔭 I’m currently working on **reactjs**
@@ -63,5 +59,9 @@
 <a href="https://fb.com/https://www.facebook.com/mdmahamud.mdmahamud.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdmahamud.mdmahamud.980" height="30" width="40" /></a>
 <a href="https://instagram.com/mahamudm90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahamudm90" height="30" width="40" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamudm90&label=Profile%20views&color=0e75b6&style=flat" alt="mahamudm90" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudm90" alt="mahamudm90" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mahamudm90" target="blank"><img src="https://img.shields.io/twitter/follow/mahamudm90?logo=twitter&style=for-the-badge" alt="mahamudm90" /></a> </p>
 
