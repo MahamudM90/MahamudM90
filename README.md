@@ -61,12 +61,6 @@
 #### ❄ Open Source:
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhulaminparvez" alt="ruhulaminparvez" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulaminparvez&show_icons=true&locale=en&layout=compact" alt="ruhulaminparvez" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhulaminparvez&show_icons=true&locale=en" alt="ruhulaminparvez" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminparvez&" alt="ruhulaminparvez" /></p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamudm90&show_icons=true&locale=en&layout=compact" alt="mahamudm90" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamudm90&show_icons=true&locale=en" alt="mahamudm90" /></p>
