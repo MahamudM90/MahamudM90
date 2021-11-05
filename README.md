@@ -59,7 +59,7 @@
 <a href="https://fb.com/https://www.facebook.com/mdmahamud.mdmahamud.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdmahamud.mdmahamud.980" height="30" width="40" /></a>
 <a href="https://instagram.com/mahamudm90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahamudm90" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamudm90&label=Profile%20views&color=0e75b6&style=flat" alt="mahamudm90" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudm90" alt="mahamudm90" /></a> </p>
 
