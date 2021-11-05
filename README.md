@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudm90" alt="mahamudm90" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mahamudm90" target="blank"><img src="https://img.shields.io/twitter/follow/mahamudm90?logo=twitter&style=for-the-badge" alt="mahamudm90" /></a> </p>
+<h1>I'm a Student Now I studied at Daffodil International University. My graduation is ongoing and for now in the 11th semester. My dream is to be a software engineer and I am passionate about it. I am trying to make my best version to provide some services for my family and society to make a happy world. </h1>
 
 - 🔭 I’m currently working on **reactjs**
 
