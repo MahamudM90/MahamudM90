@@ -2,7 +2,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahamudM90&label=Profile%20views&color=0e75b6&style=flat" alt="mahamud hasan" /> </p>
  
 <div align="center"> 
-  <img width="255" src="https://github.com/MahamudM90/MahamudM90/blob/main/preview/hi-five.gif">
+  <img width="255" src="https://github.com/MahamudM90/MahamudM90/blob/main/preview/programer.gif">
 </div>
 
 <div align="center">
