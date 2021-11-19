@@ -85,5 +85,5 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/mahamudm90" target="blank"><img src="https://img.shields.io/twitter/follow/mahamudm90?logo=twitter&style=for-the-badge" alt="mahamudm90" /></a> </p>
+<p align="center"> <a href="https://twitter.com/mahamudm90" target="blank"><img src="https://img.shields.io/twitter/follow/mahamudm90?logo=twitter&style=for-the-badge" alt="mahamudm90" /></a> </p>
 
