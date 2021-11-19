@@ -59,9 +59,14 @@
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamudm90&show_icons=true&locale=en&layout=compact" alt="mahamudm90" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamudm90&show_icons=true&locale=en" alt="mahamudm90" /></p>
+<div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamudm90&show_icons=true&locale=en" alt="mahamudm90" /></p>
+ </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudm90&" alt="mahamudm90" /></p>
+<div align="center"> 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudm90&" alt="mahamudm90" /></p>
+ </div>
+
 
 
 
