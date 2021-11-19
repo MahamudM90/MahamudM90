@@ -59,22 +59,22 @@
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamudm90&show_icons=true&locale=en&layout=compact" alt="mahamudm90" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamudm90&show_icons=true&locale=en&layout=compact" alt="mahamudm90" /></p>
  </div>
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamudm90&show_icons=true&locale=en" alt="mahamudm90" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mahamudm90&show_icons=true&locale=en" alt="mahamudm90" /></p>
  </div>
 
 <div align="center"> 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudm90&" alt="mahamudm90" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudm90&" alt="mahamudm90" /></p>
  </div>
 
 <div align="center">
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudm90" alt="mahamudm90" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudm90" alt="mahamudm90" /></a> </p>
+<h3>Connect with me:</h3>
+<p>
 <a href="https://twitter.com/mahamudm90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahamudm90" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahamudm90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahamudm90" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mdmahamud.mdmahamud.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdmahamud.mdmahamud.980" height="30" width="40" /></a>
