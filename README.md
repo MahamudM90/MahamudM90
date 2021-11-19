@@ -72,7 +72,6 @@
 
 <div align="center">
  
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudm90" alt="mahamudm90" /></a> </p>
 <h3>Connect with me:</h3>
 <p>
 <a href="https://twitter.com/mahamudm90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahamudm90" height="30" width="40" /></a>
