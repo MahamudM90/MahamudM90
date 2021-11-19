@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmud Hasan</h1>
-<img width="255" src="https://github.com/MahamudM90/MahamudM90/blob/main/preview/developer.gif">
+
+<img width="255" align="center" src="https://github.com/MahamudM90/MahamudM90/blob/main/preview/developer.gif">
 <h3 align="center">A passionate Front-End developer from BD</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahamudM90&label=Profile%20views&color=0e75b6&style=flat" alt="mahamud hasan" /> </p>
 <p>I'm a Student Now I studied at Daffodil International University. My dream is to be a software engineer and I am passionate about it. I enjoy coding and contributing to open source projects, as well as answering questions in forums and helping people with code. I am trying to make my best version to provide some services for my family and society to make a happy world. </p>
