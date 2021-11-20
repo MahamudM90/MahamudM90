@@ -19,10 +19,9 @@
 - 🌱 I’m currently learning **full stack development**
 
 - 💬 Ask me about **reactjs, nodejs**
-
-- 📫 How to reach me **mahamud15-10467@diu.edu.bd**
-
 - ⚡ Fun fact **I think I'm funny**
+- 📫 How to reach me 
+
 - [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Druhulaminparvez&suffix=%20Followers)](https://twitter.com/ruhulaminparvez)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/ruhul-amin-parvez-787b841aa/)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ruhul_dev/)
