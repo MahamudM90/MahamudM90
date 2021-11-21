@@ -36,6 +36,7 @@
 <a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
   #### ⚡ Frameworks, Libraries and Modules: 
 
+(https://img.shields.io/twitter/url?color=blue&label=React&logo=react&logoColor=blue&style)
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5C2D91?logo=bootstrap&logoColor=white"></a>
 <br>
