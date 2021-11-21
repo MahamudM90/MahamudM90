@@ -34,6 +34,7 @@
 <a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-%23007396.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 
 #### ⚡ Frameworks, Libraries and Modules: 
