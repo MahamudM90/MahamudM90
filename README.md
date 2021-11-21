@@ -54,6 +54,8 @@
 #### 🛢 Databases:
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Afirebase"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23007396.svg?logo=firebase&logoColor=yellow"></a>
+
 <br>
 
 #### 🌩 Cloud:
