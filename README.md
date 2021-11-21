@@ -50,12 +50,10 @@
 ![Sass](https://img.shields.io/twitter/url?label=Sass&logo=sass&style=social&url=https%3A%2F%2Fgithub.com%2Fruhulaminparvez%2F)
 <a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 <br>
-
 #### 🛢 Databases:
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Afirebase"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23007396.svg?logo=firebase&logoColor=yellow"></a>
-<br>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Afirebase"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23007396.svg?logo=firebase&logoColor=yellow"></a><br>
 #### 🌩 Cloud:
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-E8E8E8?logo=Netlify&logoColor=black"></a>
