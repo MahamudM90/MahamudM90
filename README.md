@@ -7,8 +7,8 @@
 
 <div align="center">
   <h1 align="center">Hi 👋, I'm Mahamud Hasan</h1>
- 
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%MahamudM90&suffix=%20Followers)](https://twitter.com/MahamudM90?fbclid=IwAR2Sf08--5Qj0liOi2WFDzQRiuGNhN1TBRlttd8KdU0EXGq4rzNaqNVQfyw)
+
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DMahamudM90&suffix=%20Followers)](https://twitter.com/MahamudM90)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/mahamudm90/?fbclid=IwAR3Z7-rBnFCk9CcKcz_AMbGlhUsq94pm45LPv9DOup7zR__GtcuLIzheEtw)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahamudm90/?fbclid=IwAR0I7h7Gyp5H4No0p7PeiOnJwtR3lqRvUJxVb4E3nD3aatyAUEf_2yJB1U4)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mahamud15-10467@diu.edu.bd?subject=From%20GitHub&cc=mahamud01795@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
