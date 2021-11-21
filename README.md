@@ -31,19 +31,19 @@
 ## My-Stack...💻
 
 #### 🔥 Languages: 
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
   #### ⚡ Frameworks, Libraries and Modules: 
 
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5C2D91?logo=bootstrap&logoColor=white"></a>
 <br>
 #### 🏂 MarkUp, Style-Sheet and Pre-Processor:
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
 ![Sass](https://img.shields.io/twitter/url?label=Sass&logo=sass&style=social&url=https%3A%2F%2Fgithub.com%2Fruhulaminparvez%2F)
-<a href="https://github.com/search?q=user%3ARuhul12+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 <br>
 #### 🛢 Databases:
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
