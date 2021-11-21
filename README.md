@@ -35,11 +35,11 @@
 <a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-%23007396.svg?logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Areact"><img alt="React" src="https://img.shields.io/badge/React-%23007396.svg?logo=react&logoColor=blue"></a>
+
 
 
 #### ⚡ Frameworks, Libraries and Modules: 
-<a href="#"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Areact"><img alt="React" src="https://img.shields.io/badge/React-%23007396.svg?logo=react&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5C2D91?logo=bootstrap&logoColor=white"></a>
 <br> 
