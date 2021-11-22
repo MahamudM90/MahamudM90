@@ -15,7 +15,7 @@
  
   <h3 align="center">A passionate Front-End developer from BD</h3>
  
-  <p>My dream is to be a software engineer and I am passionate about it. Exploring and learning new technology is my passion I enjoy coding and contributing to open source projects, as well as answering questions in forums and helping people with code. I am trying to make my best version to provide some services for my family and society to make a happy world. </p>
+  <p>My dream is to be a software engineer and I am passionate about it. I love exploring and learning new technology & I enjoy solving algorithms problems and contributing to open source projects, as well as answering questions in forums and helping people with code. I am trying to make my best version to provide some services for my family and society to make a happy world.</p>
 </div>
 
 
