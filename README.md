@@ -57,7 +57,7 @@
 #### 🌩 Cloud:
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-E8E8E8?logo=Netlify&logoColor=black"></a>
-<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Avercel"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23007396.svg?logo=firebase&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3AMahamudM90+is%3Arepo+language%3Avercel"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23007396.svg?logo=vercel&logoColor=black"></a>
 <br>
 
 #### 🛠 Tools and Software: 
