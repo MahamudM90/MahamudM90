@@ -57,7 +57,7 @@
 #### 🌩 Cloud:
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-E8E8E8?logo=Netlify&logoColor=black"></a>
-<a href="#"><img alt="vercel" src="https://img.shields.io/badge/Vercel-%2300f.svg?logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="vercel" src="https://img.shields.io/badge/Vercel-%2300f.svg?logo=vercel&logoColor=yellow"></a>
 <br>
 
 #### 🛠 Tools and Software: 
