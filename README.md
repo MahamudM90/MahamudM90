@@ -7,13 +7,7 @@
 
 <div align="center">
   <h1 align="center">Hello 👋, I'm Mahamud Hasan</h1>
- import React from 'react';
-
-const Profile: React.FC = () => {
-  return (
-    <h3>A passionate developer from Bangladesh!</h3>
-  );
-};
+ 
 
 export default Profile;
  
@@ -35,6 +29,13 @@ export default Profile;
 
 - 💬 Ask me about **reactjs, nodejs**
 - ⚡ Fun fact **I think I'm funny**
+- import React from 'react';
+
+const Profile: React.FC = () => {
+  return (
+    <h3>A passionate developer from Bangladesh!</h3>
+  );
+};
 
 
 ## My-Stack...💻
