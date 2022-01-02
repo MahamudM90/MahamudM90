@@ -6,7 +6,7 @@
 
 ### About me:
 
-- 🔭 Personal projects: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green),
+- 🔭 Personal projects: [Codeshala](https://github.com/MahamudM90/CodeShala),
   [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app)
 
 - 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
