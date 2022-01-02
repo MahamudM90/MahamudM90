@@ -7,6 +7,17 @@
 
 <div align="center">
   <h1 align="center">Hello 👋, I'm Mahamud Hasan</h1>
+ ```tsx
+import React from 'react';
+
+const Profile: React.FC = () => {
+  return (
+    <h3>A passionate developer from Bangladesh!</h3>
+  );
+};
+
+export default Profile;
+```
 
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DMahamudM90&suffix=%20Followers)](https://twitter.com/MahamudM90)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/mahamudm90/?fbclid=IwAR3Z7-rBnFCk9CcKcz_AMbGlhUsq94pm45LPv9DOup7zR__GtcuLIzheEtw)
