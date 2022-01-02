@@ -41,7 +41,7 @@ export default Profile;
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&logoColor=FCC624)
-![Android Studio](https://img.shields.io/badge/-Android Studio-000?&logo=Android Studio&logoColor=FCC624)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android&logoColor=FCC624)
 
 ![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=02303A)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&logoColor=FF9900)
