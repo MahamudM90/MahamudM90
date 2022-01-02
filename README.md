@@ -42,8 +42,7 @@ export default Profile;
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&logoColor=FCC624)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android&logoColor=FCC624)
-
-![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=02303A)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=gradle&logoColor=02303A)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&logoColor=FF9900)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware&logoColor=0052CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
