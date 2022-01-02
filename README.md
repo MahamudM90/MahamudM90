@@ -38,7 +38,7 @@ export default Profile;
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
-![Heruko](https://img.shields.io/badge/-Heruko-000?&logo=Heruko)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoft%20azure&logoColor=0089D6)
