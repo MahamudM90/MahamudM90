@@ -35,7 +35,7 @@ export default Profile;
 
 **Technologies:**
 
-![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
@@ -48,7 +48,7 @@ export default Profile;
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 [![Php](https://img.shields.io/badge/-Php-000?&logo=Php&logoColor=007ACC)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=B62829)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=B62829)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=C%20sharp&logoColor=68217A)
@@ -57,7 +57,7 @@ export default Profile;
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide&logoColor=2C2255)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 
 
 **Stay in touch:**
