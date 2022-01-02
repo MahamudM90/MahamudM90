@@ -7,7 +7,7 @@
 ### About me:
 
 - 🔭 Personal projects: [Codeshala](https://github.com/MahamudM90/CodeShala),
-  [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app)
+  [Car-Store](https://github.com/MahamudM90/Car-Store)
 
 - 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
 
