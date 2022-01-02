@@ -6,6 +6,8 @@ CodeShala App</a>! Show your support! 👍🏻</h6>
 <div align="center"> 
   <img width="255" src="https://github.com/MahamudM90/MahamudM90/blob/main/preview/programer.gif">
 </div>
+I love exploring and learning new technology & I enjoy solving algorithms problems and contributing to open source projects, as well as answering questions in forums and helping people with code. I am trying to make my best version to provide some services for my family and society to make a happy world.</p>
+</div>
 
 ### About me:
 
