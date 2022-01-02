@@ -1,5 +1,7 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahamudM90&label=Profile%20views&color=0e75b6&style=flat" alt="mahamud hasan" /> </p>
- 
+ <h1 align='center'>Greetings!!! I'm Alvaro Israel 🇧🇷</h1>
+
+<h5 align='center'>If you are here, please leave a ⭐️ at <a href='https://github.com/AlvaroIsrael/gobarber-app'>Go
+Barber App</a>! Show your support! 👍🏻</h6>
 <div align="center"> 
   <img width="255" src="https://github.com/MahamudM90/MahamudM90/blob/main/preview/programer.gif">
 </div>
