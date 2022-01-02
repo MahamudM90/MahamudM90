@@ -43,7 +43,7 @@ export default Profile;
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&logoColor=FCC624)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android&logoColor=FCC624)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=gradle&logoColor=02303A)
-![Jupyter](https://img.shields.io/badge/-AWS-000?&logo=jupyter&logoColor=FF9900)
+![Jupyter](https://img.shields.io/badge/-JUPYTER-000?&logo=jupyter&logoColor=FF9900)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware&logoColor=0052CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
