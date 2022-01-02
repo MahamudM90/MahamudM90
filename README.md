@@ -63,6 +63,6 @@ export default Profile;
 
 **Stay in touch:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/alvaroisraeldesenvolvedor)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/mahamudm90/)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000?&logo=CodeSandbox&logoColor=ffffff)](https://codesandbox.com/alvaro%20israel%20nunes%20leite)
 
