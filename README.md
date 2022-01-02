@@ -11,8 +11,8 @@
 
 - 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
 
-- 📫 How to reach me? **israel.nunes.leite@gmail.com**
-  or **[LinkedIn](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)**
+- 📫 How to reach me? **mahamud15-10467@diu.edu.bd**
+  or **[LinkedIn](https://www.linkedin.com/in/mahamudm90/)**
 
 - 🎂 Fun fact: **The Cake?! Well... It's a lie.**
 
@@ -23,7 +23,7 @@ import React from 'react';
 
 const Profile: React.FC = () => {
   return (
-    <h3>A passionate developer from Brazil!</h3>
+    <h3>A passionate developer from Bangladesh!</h3>
   );
 };
 
