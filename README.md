@@ -1,21 +1,5 @@
 
- <h1 align='center'>Greetings!!! I'm Mahamud Hasan </h1>
-
-<h5 align='center'>A passionate Front-End developer from BD.</h5>
-<img align='right' width='174' height='190' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
-
-### About me:
-
-- 🔭 Personal projects: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green),
-  [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app)
-
-- 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
-
-- 📫 How to reach me? **israel.nunes.leite@gmail.com**
-  or **[LinkedIn](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)**
-
-- 🎂 Fun fact: **The Cake?! Well... It's a lie.**
-
+ 
 ```tsx
 import React from 'react';
 
