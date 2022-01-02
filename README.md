@@ -1,5 +1,5 @@
 
- <h1 align='center'>Greetings!!! I'm Alvaro Israel 🇧🇷</h1>
+ <h1 align='center'>Greetings!!! I'm Mahamud Hasan </h1>
 
 <h5 align='center'>If you are here, please leave a ⭐️ at <a href='https://github.com/AlvaroIsrael/gobarber-app'>Go
 Barber App</a>! Show your support! 👍🏻</h6>
