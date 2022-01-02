@@ -58,6 +58,8 @@ export default Profile;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide&logoColor=2C2255)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+![Netbeans](https://img.shields.io/badge/-Netbeans-000?&logo=netbeans&logoColor=47A248)
+
 
 **Stay in touch:**
 
