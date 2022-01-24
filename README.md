@@ -11,7 +11,7 @@ CodeShala App</a>! Show your support! 👍🏻</h6>
 
  ### About me:
 
-- 🔭 Personal projects: [Codeshala](https://github.com/MahamudM90/CodeShala),
+- 🔭 Personal projects: [CODESHALA](https://github.com/MahamudM90/CodeShala),
   [COVID-19 DETECTOR](https://github.com/MahamudM90/COVID-19-DETECTOR)
 
 - 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
