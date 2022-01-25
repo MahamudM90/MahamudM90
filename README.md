@@ -1,6 +1,6 @@
  <h1 align='center'>Greetings!!! I'm Mahamud Hasan </h1>
 
-<h5 align='center'>If you are here, please leave a ⭐️ at <a href=' code-shala.netlify.app/ '>Go
+<h5 align='center'>If you are here, please leave a ⭐️ at <a href='code-shala.netlify.app/'>Go
 CodeShala App</a>! Show your support! 👍🏻</h6>
 
 <div align="center"> 
