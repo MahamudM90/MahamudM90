@@ -36,7 +36,6 @@ const Profile: React.FC = () => {
 
 export default Profile;
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+DREAMLANCER.;I+AM+A+SEASONED+WEB+DEVELOPER.;7+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
 
 **Technologies:**
