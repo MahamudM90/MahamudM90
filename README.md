@@ -1,4 +1,5 @@
  <h1 align='center'>Greetings!!! I'm Mahamud Hasan </h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+DREAMLANCER.;I+AM+A+SEASONED+WEB+DEVELOPER.;7+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
 <h5 align='center'>If you are here, please leave a ⭐️ at <a href='https://code-shala.netlify.app/'>Go
 CodeShala App</a>! Show your support! 👍🏻</h6>
