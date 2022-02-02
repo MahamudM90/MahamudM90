@@ -55,6 +55,7 @@ export default Profile;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwindcss)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass)
 ![c](https://img.shields.io/badge/-c-000?&logo=c)
+![Codeblocks](https://img.shields.io/badge/-Codeblocks-000?&logo=codeblockside&logoColor=2C2255)
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php&logoColor=007ACC)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy&logoColor=B62829)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
