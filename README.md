@@ -52,6 +52,7 @@ export default Profile;
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=0052CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass)
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=B62829)
