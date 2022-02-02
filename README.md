@@ -39,7 +39,7 @@ export default Profile;
 
 
 **Technologies:**
-![c](https://img.shields.io/badge/-C-000?&logo=c)
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
@@ -53,6 +53,7 @@ export default Profile;
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass)
+![c](https://img.shields.io/badge/-C-000?&logo=c)
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=JQUERY&logoColor=4479A1)
