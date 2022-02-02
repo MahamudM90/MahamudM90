@@ -39,7 +39,7 @@ export default Profile;
 
 
 **Technologies:**
-![C](https://img.shields.io/badge/-C-000?&logo=c)
+![c](https://img.shields.io/badge/-C-000?&logo=c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
