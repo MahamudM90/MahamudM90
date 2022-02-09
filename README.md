@@ -64,6 +64,7 @@ export default Profile;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=C%20sharp&logoColor=68217A)
 ![Markdown](https://img.shields.io/badge/-Markdown%20IDEA-000?&logo=Markdown&logoColor=FC444F)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=179EDC)
+![Githubcopilot](https://img.shields.io/badge/-Githubcopilot-000?&logo=GITHUBCOPILOT&logoColor=4479A1)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide&logoColor=2C2255)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
