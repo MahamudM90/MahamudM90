@@ -67,7 +67,6 @@ export default Profile;
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide&logoColor=2C2255)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
-![sql](https://img.shields.io/badge/-sql-000?&logo=sql)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 
 
