@@ -42,6 +42,7 @@ export default Profile;
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Nextjs)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
