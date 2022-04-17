@@ -68,7 +68,7 @@ export default Profile;
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=gradle&logoColor=02303A)
-![Webstrom](https://img.shields.io/badge/-Webstrom-000?&logo=webstrom&logoColor=0052CC)
+![WebStrom](https://img.shields.io/badge/-WebStrom-000?&logo=webstrom&logoColor=0052CC)
 
 
 **Stay in touch:**
