@@ -59,7 +59,7 @@ export default Profile;
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy&logoColor=B62829)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=JQUERY&logoColor=4479A1)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=B62829)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=B62829)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=C%20sharp&logoColor=68217A)
 ![Markdown](https://img.shields.io/badge/-Markdown%20-000?&logo=Markdown&logoColor=FC444F)
