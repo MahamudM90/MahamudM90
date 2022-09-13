@@ -17,6 +17,9 @@ CodeShala App</a>! Show your support! 👍🏻</h6>
   [Covid-19 Detector](https://github.com/MahamudM90/COVID-19-DETECTOR)
 
 - 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
+🔭 I’m currently working on MERN Stack,
+🌱 I’m currently learning GraphQL, Advanced Reactjs
+💬 Ask me about #Javascript #ReactJS #NodeJS
 
 - 📫 How to reach me? **mahamud15-10467@diu.edu.bd**
   or **[LinkedIn](https://www.linkedin.com/in/mahamudm90/)**
