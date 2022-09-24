@@ -77,6 +77,7 @@ export default Profile;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/mahamudm90/)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000?&logo=CodeSandbox&logoColor=ffffff)](https://codesandbox.com/alvaro%20israel%20nunes%20leite)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=CodePen&logoColor=ffffff)](https://codepen.io/mahamudm90)
+[![Scrimba](https://img.shields.io/badge/-Scrimba-000?&logo=Scrimba&logoColor=ffffff)](https://scrimba.com/dashboard#overview)
 [![StackBlitz](https://img.shields.io/badge/-StackBlitz-000?&logo=StackBlitz&logoColor=ffffff)](https://stackblitz.com/@MahamudM90)
 
 
