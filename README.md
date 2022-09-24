@@ -77,13 +77,7 @@ export default Profile;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/mahamudm90/)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000?&logo=CodeSandbox&logoColor=ffffff)](https://codesandbox.com/alvaro%20israel%20nunes%20leite)
 
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamudm90&show_icons=true&locale=en&layout=compact" alt="mahamudm90" /></p>
- </div>
 
-<div align="center">
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mahamudm90&show_icons=true&locale=en" alt="mahamudm90" /></p>
- </div>
 
 <div align="center"> 
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudm90&" alt="mahamudm90" /></p>
