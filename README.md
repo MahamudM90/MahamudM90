@@ -73,6 +73,7 @@ export default Profile;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 **Stay in touch:**
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/mahamudm90/)
 [![Scrimba](https://img.shields.io/badge/-Scrimba-000?&logo=Scrimba&logoColor=CD5C5C)](https://scrimba.com/dashboard#overview)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=CodePen&logoColor=ffffff)](https://codepen.io/mahamudm90)
