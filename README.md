@@ -79,6 +79,7 @@ export default Profile;
 [![Scrimba](https://img.shields.io/badge/-Scrimba-000?&logo=Scrimba&logoColor=CD5C5C)](https://scrimba.com/dashboard#overview)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=CodePen&logoColor=ffffff)](https://codepen.io/mahamudm90)
 [![StackBlitz](https://img.shields.io/badge/-StackBlitz-000?&logo=StackBlitz&logoColor=2B547E)](https://stackblitz.com/@MahamudM90)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-000?&logo=CodeChef&logoColor=CD5C5C)](https://www.codechef.com/users/mahamudm90)
 
 
 
