@@ -66,6 +66,7 @@ export default Profile;
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=gradle&logoColor=02303A)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=gradle&logoColor=02303A)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia&logoColor=4479A1)
