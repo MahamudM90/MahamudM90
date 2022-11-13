@@ -75,7 +75,7 @@ export default Profile;
 **Stay in touch:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/mahamudm90/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode&logoColor=CD5C5C)](https://leetcode.com/mahamudm90/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode&logoColor=fffff)](https://leetcode.com/mahamudm90/)
 [![Scrimba](https://img.shields.io/badge/-Scrimba-000?&logo=Scrimba&logoColor=CD5C5C)](https://scrimba.com/dashboard#overview)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=CodePen&logoColor=ffffff)](https://codepen.io/mahamudm90)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-000?&logo=CodeChef&logoColor=fffffff)](https://www.codechef.com/users/mahamudm90)
