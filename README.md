@@ -72,6 +72,8 @@ export default Profile;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia&logoColor=4479A1)
 ![Less](https://img.shields.io/badge/-Less-000?&logo=Less&logoColor=179EDC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Graphql](https://img.shields.io/badge/-Graphql-000?&logo=Graphql&logoColor=179EDC)
+
 
 **Stay in touch:**
 
