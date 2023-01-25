@@ -74,7 +74,7 @@ export default Profile;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Graphql](https://img.shields.io/badge/-Graphql-000?&logo=Graphql&logoColor=179EDC)
 ![Next.js](https://img.shields.io/badge/-Next-000?&logo=next.js)
-
+![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
 
 
 **Stay in touch:**
