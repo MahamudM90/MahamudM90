@@ -73,7 +73,7 @@ export default Profile;
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&logoColor=FCC624)
-
+![Railway](https://img.shields.io/badge/-Railway%20-000?&logo=Railway&logoColor=FC444F)
 
 
 **Stay in touch:**
